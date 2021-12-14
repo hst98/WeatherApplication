@@ -1,0 +1,36 @@
+
+input{
+    width:300px;
+}
+.header{
+    background-color: lightseagreen;
+}
+
+form{
+    height:200px;
+    width:750px;
+    text-align: center;
+    background-color: khaki;
+    position: absolute;
+    margin-top:50px;
+    margin-left: 370px;
+    border: 3px solid white;
+    box-shadow: white;
+
+}
+button{
+    height:40px;
+    width:150px;
+}
+
+.card{
+    height:100px;
+    width:650px;
+    margin-left:430px;
+    text-align:center;
+    padding-top:20px;
+    background-color: khaki;
+    position: absolute;
+    border: 3px solid white;
+    box-shadow: white;
+}
